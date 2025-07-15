@@ -1,4 +1,4 @@
-# dfind
+# dfind - Under Development
 
 A simple Go application to scan a folder recursively, compute SHA256 hashes for all files, and identify duplicate files based on their content.
 
